@@ -106,12 +106,3 @@ This indicates partial alignment and motivates stronger conditioning strategies.
   - Regressor-guided latent optimization
 
 ---
-
-## Intended Use
-
-Designed for:
-- Protein design research
-- Generative model benchmarking
-- Integration into active learning pipelines
-
-The framework generalizes to other sequence–property modeling problems with minimal modification.
