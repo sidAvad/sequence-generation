@@ -2,7 +2,7 @@
 
 **Author:** Siddharth Avadhanam  
 
-This repository implements an end-to-end protein sequence modeling pipeline combining **predictive modeling** and **conditional generation**, suitable for research and industry protein design workflows.
+This repository implements an end-to-end protein sequence modeling pipeline combining **predictive modeling** and **conditional generation**, suitable for protein design workflows.
 
 ---
 
